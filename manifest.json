@@ -3,7 +3,7 @@
   "title": "Driftworlds: Ossara",
   "description": "A richly detailed fantasy world for Foundry VTT.",
   "version": "1.0.0",
-  "download": "https://raw.githubusercontent.com/yourusername/driftworlds-ossara/main/driftworlds-ossara.zip",
+  "download": "https://raw.githubusercontent.com/fpearl/driftworlds-ossara/main/driftworlds-ossara.zip",
   "protected": false,
   "system": "Savage Worlds",
   "coreVersion": "12.0.0"
